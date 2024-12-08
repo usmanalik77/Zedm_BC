@@ -1,0 +1,5 @@
+[console_scripts]
+logger = zedm_to_BC.observation_logger.observation_logger:main
+main = zedm_to_BC.main:main
+scripts = zedm_to_BC.scripts.control_publisher:main
+trainer = zedm_to_BC.training.behavior_cloning_training:main

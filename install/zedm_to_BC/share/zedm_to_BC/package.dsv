@@ -1,0 +1,6 @@
+source;share/zedm_to_BC/hook/pythonpath.ps1
+source;share/zedm_to_BC/hook/pythonpath.dsv
+source;share/zedm_to_BC/hook/pythonpath.sh
+source;share/zedm_to_BC/hook/ament_prefix_path.ps1
+source;share/zedm_to_BC/hook/ament_prefix_path.dsv
+source;share/zedm_to_BC/hook/ament_prefix_path.sh

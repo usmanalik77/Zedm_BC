@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pdf_to_matrix
+Version: 0.0.0
+Summary: TODO: Package description
+Maintainer: usman
+Maintainer-email: usman@todo.todo
+License: TODO: License declaration
+Requires-Dist: setuptools

@@ -1,0 +1,20 @@
+running develop
+running egg_info
+creating pdf_to_matrix.egg-info
+writing pdf_to_matrix.egg-info/PKG-INFO
+writing dependency_links to pdf_to_matrix.egg-info/dependency_links.txt
+writing entry points to pdf_to_matrix.egg-info/entry_points.txt
+writing requirements to pdf_to_matrix.egg-info/requires.txt
+writing top-level names to pdf_to_matrix.egg-info/top_level.txt
+writing manifest file 'pdf_to_matrix.egg-info/SOURCES.txt'
+reading manifest file 'pdf_to_matrix.egg-info/SOURCES.txt'
+writing manifest file 'pdf_to_matrix.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/usman/ros2_ws/install/pdf_to_matrix/lib/python3.10/site-packages/pdf-to-matrix.egg-link (link to .)
+Installing pdf_to_matrix script to /home/usman/ros2_ws/install/pdf_to_matrix/lib/pdf_to_matrix
+
+Installed /home/usman/ros2_ws/build/pdf_to_matrix
+running symlink_data
+creating /home/usman/ros2_ws/install/pdf_to_matrix/share/ament_index/resource_index/packages
+symbolically linking /home/usman/ros2_ws/build/pdf_to_matrix/resource/pdf_to_matrix -> /home/usman/ros2_ws/install/pdf_to_matrix/share/ament_index/resource_index/packages
+symbolically linking /home/usman/ros2_ws/build/pdf_to_matrix/package.xml -> /home/usman/ros2_ws/install/pdf_to_matrix/share/pdf_to_matrix

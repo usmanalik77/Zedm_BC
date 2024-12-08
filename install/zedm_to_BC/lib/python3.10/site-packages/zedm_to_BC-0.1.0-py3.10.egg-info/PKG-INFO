@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: zedm_to_BC
+Version: 0.1.0
+Summary: Behavior cloning package for ROS2 using a Zed Mini camera stream.
+Maintainer: usman
+Maintainer-email: usman@todo.todo
+License: TODO: License declaration
+Requires-Dist: setuptools
+Requires-Dist: tensorflow
+Requires-Dist: numpy

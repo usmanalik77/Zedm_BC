@@ -1,0 +1,2 @@
+[console_scripts]
+rgbd_observer = rgbd_observer.rgbd_observer:main

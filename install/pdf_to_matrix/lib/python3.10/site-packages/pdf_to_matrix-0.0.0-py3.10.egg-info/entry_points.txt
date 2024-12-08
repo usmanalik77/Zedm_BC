@@ -1,0 +1,2 @@
+[console_scripts]
+pdf_to_matrix = pdf_to_matrix.pdf_to_matrix:main

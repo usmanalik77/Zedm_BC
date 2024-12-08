@@ -1,0 +1,34 @@
+[0.875s] Invoking command in '/home/usman/ros2_ws/build/zedm_to_BC': PYTHONPATH=/home/usman/ros2_ws/build/zedm_to_BC/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/usman/ros2_ws/build/zedm_to_BC/build --no-deps symlink_data
+[0.963s] /home/usman/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.963s]   warnings.warn(msg)
+[1.045s] running develop
+[1.045s] /home/usman/.local/lib/python3.10/site-packages/setuptools/command/develop.py:41: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[1.045s] !!
+[1.045s] 
+[1.045s]         ********************************************************************************
+[1.045s]         Please avoid running ``setup.py`` and ``easy_install``.
+[1.045s]         Instead, use pypa/build, pypa/installer or other
+[1.045s]         standards-based tools.
+[1.045s] 
+[1.045s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[1.045s]         ********************************************************************************
+[1.045s] 
+[1.045s] !!
+[1.045s]   easy_install.initialize_options(self)
+[1.146s] running egg_info
+[1.153s] writing zedm_to_BC.egg-info/PKG-INFO
+[1.154s] writing dependency_links to zedm_to_BC.egg-info/dependency_links.txt
+[1.154s] writing entry points to zedm_to_BC.egg-info/entry_points.txt
+[1.154s] writing requirements to zedm_to_BC.egg-info/requires.txt
+[1.154s] writing top-level names to zedm_to_BC.egg-info/top_level.txt
+[1.169s] reading manifest file 'zedm_to_BC.egg-info/SOURCES.txt'
+[1.170s] writing manifest file 'zedm_to_BC.egg-info/SOURCES.txt'
+[1.208s] running build_ext
+[1.208s] Creating /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm-to-BC.egg-link (link to .)
+[1.208s] Installing logger script to /home/usman/ros2_ws/install/zedm_to_BC/lib/zedm_to_BC
+[1.209s] Installing main script to /home/usman/ros2_ws/install/zedm_to_BC/lib/zedm_to_BC
+[1.209s] Installing trainer script to /home/usman/ros2_ws/install/zedm_to_BC/lib/zedm_to_BC
+[1.209s] 
+[1.209s] Installed /home/usman/ros2_ws/build/zedm_to_BC
+[1.209s] running symlink_data
+[1.234s] Invoked command in '/home/usman/ros2_ws/build/zedm_to_BC' returned '0': PYTHONPATH=/home/usman/ros2_ws/build/zedm_to_BC/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/usman/ros2_ws/build/zedm_to_BC/build --no-deps symlink_data

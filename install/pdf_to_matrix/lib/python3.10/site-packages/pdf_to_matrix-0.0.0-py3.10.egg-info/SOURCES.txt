@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/pdf_to_matrix/pdf_to_matrix.egg-info/PKG-INFO
+../../build/pdf_to_matrix/pdf_to_matrix.egg-info/SOURCES.txt
+../../build/pdf_to_matrix/pdf_to_matrix.egg-info/dependency_links.txt
+../../build/pdf_to_matrix/pdf_to_matrix.egg-info/entry_points.txt
+../../build/pdf_to_matrix/pdf_to_matrix.egg-info/requires.txt
+../../build/pdf_to_matrix/pdf_to_matrix.egg-info/top_level.txt
+../../build/pdf_to_matrix/pdf_to_matrix.egg-info/zip-safe
+pdf_to_matrix/__init__.py
+pdf_to_matrix/pdf_to_matrix.py
+resource/pdf_to_matrix
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

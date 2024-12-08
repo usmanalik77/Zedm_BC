@@ -1,0 +1,27 @@
+[0.900s] Invoking command in '/home/usman/ros2_ws/src/rgbd_converter': PYTHONPATH=/home/usman/ros2_ws/build/rgbd_converter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usman/ros2_ws/install/rgbd_converter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rgbd_converter build --build-base /home/usman/ros2_ws/build/rgbd_converter/build install --record /home/usman/ros2_ws/build/rgbd_converter/install.log --single-version-externally-managed install_data
+[0.990s] /home/usman/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.990s]   warnings.warn(msg)
+[1.037s] running egg_info
+[1.044s] writing ../../build/rgbd_converter/rgbd_converter.egg-info/PKG-INFO
+[1.044s] writing dependency_links to ../../build/rgbd_converter/rgbd_converter.egg-info/dependency_links.txt
+[1.045s] writing entry points to ../../build/rgbd_converter/rgbd_converter.egg-info/entry_points.txt
+[1.045s] writing requirements to ../../build/rgbd_converter/rgbd_converter.egg-info/requires.txt
+[1.045s] writing top-level names to ../../build/rgbd_converter/rgbd_converter.egg-info/top_level.txt
+[1.061s] reading manifest file '../../build/rgbd_converter/rgbd_converter.egg-info/SOURCES.txt'
+[1.062s] writing manifest file '../../build/rgbd_converter/rgbd_converter.egg-info/SOURCES.txt'
+[1.062s] running build
+[1.062s] running build_py
+[1.062s] copying rgbd_converter/rgbd_node.py -> /home/usman/ros2_ws/build/rgbd_converter/build/lib/rgbd_converter
+[1.062s] copying rgbd_converter/__init__.py -> /home/usman/ros2_ws/build/rgbd_converter/build/lib/rgbd_converter
+[1.062s] running install
+[1.065s] running install_lib
+[1.073s] running install_data
+[1.073s] copying resource/rgbd_converter -> /home/usman/ros2_ws/install/rgbd_converter/share/ament_index/resource_index/packages
+[1.073s] copying package.xml -> /home/usman/ros2_ws/install/rgbd_converter/share/rgbd_converter
+[1.073s] running install_egg_info
+[1.081s] removing '/home/usman/ros2_ws/install/rgbd_converter/lib/python3.10/site-packages/rgbd_converter-0.0.0-py3.10.egg-info' (and everything under it)
+[1.082s] Copying ../../build/rgbd_converter/rgbd_converter.egg-info to /home/usman/ros2_ws/install/rgbd_converter/lib/python3.10/site-packages/rgbd_converter-0.0.0-py3.10.egg-info
+[1.082s] running install_scripts
+[1.151s] Installing rgbd_node script to /home/usman/ros2_ws/install/rgbd_converter/lib/rgbd_converter
+[1.151s] writing list of installed files to '/home/usman/ros2_ws/build/rgbd_converter/install.log'
+[1.166s] Invoked command in '/home/usman/ros2_ws/src/rgbd_converter' returned '0': PYTHONPATH=/home/usman/ros2_ws/build/rgbd_converter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usman/ros2_ws/install/rgbd_converter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rgbd_converter build --build-base /home/usman/ros2_ws/build/rgbd_converter/build install --record /home/usman/ros2_ws/build/rgbd_converter/install.log --single-version-externally-managed install_data

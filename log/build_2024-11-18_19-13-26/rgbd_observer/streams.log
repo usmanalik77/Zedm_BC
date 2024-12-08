@@ -1,0 +1,37 @@
+[0.864s] Invoking command in '/home/usman/ros2_ws/build/rgbd_observer': PYTHONPATH=/home/usman/ros2_ws/build/rgbd_observer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usman/ros2_ws/install/rgbd_observer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/usman/ros2_ws/build/rgbd_observer/build --no-deps symlink_data
+[0.950s] /home/usman/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.951s]   warnings.warn(msg)
+[1.030s] running develop
+[1.030s] /home/usman/.local/lib/python3.10/site-packages/setuptools/command/develop.py:41: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[1.031s] !!
+[1.031s] 
+[1.031s]         ********************************************************************************
+[1.031s]         Please avoid running ``setup.py`` and ``easy_install``.
+[1.031s]         Instead, use pypa/build, pypa/installer or other
+[1.031s]         standards-based tools.
+[1.031s] 
+[1.031s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[1.031s]         ********************************************************************************
+[1.031s] 
+[1.031s] !!
+[1.031s]   easy_install.initialize_options(self)
+[1.128s] running egg_info
+[1.134s] creating rgbd_observer.egg-info
+[1.134s] writing rgbd_observer.egg-info/PKG-INFO
+[1.135s] writing dependency_links to rgbd_observer.egg-info/dependency_links.txt
+[1.135s] writing entry points to rgbd_observer.egg-info/entry_points.txt
+[1.135s] writing requirements to rgbd_observer.egg-info/requires.txt
+[1.135s] writing top-level names to rgbd_observer.egg-info/top_level.txt
+[1.135s] writing manifest file 'rgbd_observer.egg-info/SOURCES.txt'
+[1.150s] reading manifest file 'rgbd_observer.egg-info/SOURCES.txt'
+[1.151s] writing manifest file 'rgbd_observer.egg-info/SOURCES.txt'
+[1.188s] running build_ext
+[1.189s] Creating /home/usman/ros2_ws/install/rgbd_observer/lib/python3.10/site-packages/rgbd-observer.egg-link (link to .)
+[1.189s] Installing rgbd_observer script to /home/usman/ros2_ws/install/rgbd_observer/lib/rgbd_observer
+[1.189s] 
+[1.189s] Installed /home/usman/ros2_ws/build/rgbd_observer
+[1.189s] running symlink_data
+[1.189s] creating /home/usman/ros2_ws/install/rgbd_observer/share/ament_index/resource_index/packages
+[1.190s] symbolically linking /home/usman/ros2_ws/build/rgbd_observer/resource/rgbd_observer -> /home/usman/ros2_ws/install/rgbd_observer/share/ament_index/resource_index/packages
+[1.190s] symbolically linking /home/usman/ros2_ws/build/rgbd_observer/package.xml -> /home/usman/ros2_ws/install/rgbd_observer/share/rgbd_observer
+[1.209s] Invoked command in '/home/usman/ros2_ws/build/rgbd_observer' returned '0': PYTHONPATH=/home/usman/ros2_ws/build/rgbd_observer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usman/ros2_ws/install/rgbd_observer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/usman/ros2_ws/build/rgbd_observer/build --no-deps symlink_data

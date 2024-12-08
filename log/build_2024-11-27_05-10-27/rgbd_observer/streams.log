@@ -1,0 +1,27 @@
+[0.927s] Invoking command in '/home/usman/ros2_ws/src/rgbd_observer': PYTHONPATH=/home/usman/ros2_ws/build/rgbd_observer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usman/ros2_ws/install/rgbd_observer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rgbd_observer build --build-base /home/usman/ros2_ws/build/rgbd_observer/build install --record /home/usman/ros2_ws/build/rgbd_observer/install.log --single-version-externally-managed install_data
+[1.013s] /home/usman/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[1.013s]   warnings.warn(msg)
+[1.061s] running egg_info
+[1.069s] writing ../../build/rgbd_observer/rgbd_observer.egg-info/PKG-INFO
+[1.069s] writing dependency_links to ../../build/rgbd_observer/rgbd_observer.egg-info/dependency_links.txt
+[1.069s] writing entry points to ../../build/rgbd_observer/rgbd_observer.egg-info/entry_points.txt
+[1.069s] writing requirements to ../../build/rgbd_observer/rgbd_observer.egg-info/requires.txt
+[1.069s] writing top-level names to ../../build/rgbd_observer/rgbd_observer.egg-info/top_level.txt
+[1.086s] reading manifest file '../../build/rgbd_observer/rgbd_observer.egg-info/SOURCES.txt'
+[1.087s] writing manifest file '../../build/rgbd_observer/rgbd_observer.egg-info/SOURCES.txt'
+[1.087s] running build
+[1.087s] running build_py
+[1.087s] copying rgbd_observer/rgbd_observer.py -> /home/usman/ros2_ws/build/rgbd_observer/build/lib/rgbd_observer
+[1.088s] copying rgbd_observer/__init__.py -> /home/usman/ros2_ws/build/rgbd_observer/build/lib/rgbd_observer
+[1.088s] running install
+[1.091s] running install_lib
+[1.099s] running install_data
+[1.099s] copying resource/rgbd_observer -> /home/usman/ros2_ws/install/rgbd_observer/share/ament_index/resource_index/packages
+[1.099s] copying package.xml -> /home/usman/ros2_ws/install/rgbd_observer/share/rgbd_observer
+[1.099s] running install_egg_info
+[1.108s] removing '/home/usman/ros2_ws/install/rgbd_observer/lib/python3.10/site-packages/rgbd_observer-0.0.0-py3.10.egg-info' (and everything under it)
+[1.108s] Copying ../../build/rgbd_observer/rgbd_observer.egg-info to /home/usman/ros2_ws/install/rgbd_observer/lib/python3.10/site-packages/rgbd_observer-0.0.0-py3.10.egg-info
+[1.109s] running install_scripts
+[1.179s] Installing rgbd_observer script to /home/usman/ros2_ws/install/rgbd_observer/lib/rgbd_observer
+[1.179s] writing list of installed files to '/home/usman/ros2_ws/build/rgbd_observer/install.log'
+[1.194s] Invoked command in '/home/usman/ros2_ws/src/rgbd_observer' returned '0': PYTHONPATH=/home/usman/ros2_ws/build/rgbd_observer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usman/ros2_ws/install/rgbd_observer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rgbd_observer build --build-base /home/usman/ros2_ws/build/rgbd_observer/build install --record /home/usman/ros2_ws/build/rgbd_observer/install.log --single-version-externally-managed install_data
