@@ -1,1 +1,6 @@
-/home/usman/ros2_ws/build/zed_msgs/ament_cmake_python/zed_msgs/zed_msgs.egg-info/SOURCES.txt
+setup.py
+zed_msgs/__init__.py
+zed_msgs.egg-info/PKG-INFO
+zed_msgs.egg-info/SOURCES.txt
+zed_msgs.egg-info/dependency_links.txt
+zed_msgs.egg-info/top_level.txt

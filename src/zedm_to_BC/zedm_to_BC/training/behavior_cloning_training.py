@@ -4,7 +4,7 @@ from keras.optimizers import Adam
 from zedm_to_BC.models.behavior_cloning_model import ConvCfCModel
 
 # Training configuration
-COLLECTED_DATA_FILE = '/home/usman/collected_data.npy'  # Path to the `.npy` file containing the training data
+COLLECTED_DATA_FILE = '/home/usman/collected_data/collected_data.npy'  # Path to the `.npy` file containing the training data
 BATCH_SIZE = 32
 EPOCHS = 10
 LEARNING_RATE = 0.001

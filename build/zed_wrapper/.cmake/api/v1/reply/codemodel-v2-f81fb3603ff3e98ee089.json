@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-33a41807c335f41f9ce2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "zed_wrapper",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_zed_wrapper_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_zed_wrapper_files-Release-4c6f1c33ed98dbdd5fb8.json",
+					"name" : "all_zed_wrapper_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-40db775bc919787c0d23.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zed_wrapper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zed_wrapper-Release-da46ae7c1c85fa5057c3.json",
+					"name" : "zed_wrapper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zed_wrapper_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zed_wrapper_uninstall-Release-967aa3f3877b581181a3.json",
+					"name" : "zed_wrapper_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/usman/ros2_ws/build/zed_wrapper",
+		"source" : "/home/usman/ros2_ws/src/zed-ros2-wrapper/zed_wrapper"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

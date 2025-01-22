@@ -1,1 +1,5 @@
-/home/usman/ros2_ws/src/zed-ros2-wrapper/zed-ros2-interfaces/msg/ObjectsStamped.msg
+# Standard Header
+std_msgs/Header header
+
+# Array of `object_stamped` topics
+zed_msgs/Object[] objects

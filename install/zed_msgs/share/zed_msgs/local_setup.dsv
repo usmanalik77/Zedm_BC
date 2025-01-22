@@ -1,1 +1,4 @@
-/home/usman/ros2_ws/build/zed_msgs/ament_cmake_environment_hooks/local_setup.dsv
+source;share/zed_msgs/environment/ament_prefix_path.sh
+source;share/zed_msgs/environment/library_path.sh
+source;share/zed_msgs/environment/path.sh
+source;share/zed_msgs/environment/pythonpath.sh

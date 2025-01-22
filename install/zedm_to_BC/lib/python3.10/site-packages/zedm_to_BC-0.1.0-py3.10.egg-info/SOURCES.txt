@@ -1,3 +1,4 @@
+README.md
 package.xml
 setup.cfg
 setup.py
@@ -19,7 +20,9 @@ zedm_to_BC/models/behavior_cloning_model.py
 zedm_to_BC/observation_logger/__init__.py
 zedm_to_BC/observation_logger/observation_logger.py
 zedm_to_BC/scripts/__init__.py
+zedm_to_BC/scripts/combine_data.py
 zedm_to_BC/scripts/control_publisher.py
+zedm_to_BC/scripts/inference_node.py
 zedm_to_BC/training/__init__.py
 zedm_to_BC/training/behavior_cloning_training.py
-zedm_to_BC/training/combine_data.py
+zedm_to_BC/training/testing.py

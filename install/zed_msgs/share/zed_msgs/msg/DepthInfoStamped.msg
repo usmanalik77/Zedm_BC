@@ -1,1 +1,8 @@
-/home/usman/ros2_ws/src/zed-ros2-wrapper/zed-ros2-interfaces/msg/DepthInfoStamped.msg
+# Standard Header
+std_msgs/Header header
+
+# Miminum measured depth
+float32 min_depth
+
+# Maximum measured depth
+float32 max_depth

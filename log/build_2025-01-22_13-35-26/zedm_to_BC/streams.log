@@ -1,0 +1,80 @@
+[0.402s] Invoking command in '/home/usman/ros2_ws/src/zedm_to_BC': PYTHONPATH=/home/usman/ros2_ws/build/zedm_to_BC/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/zedm_to_BC build --build-base /home/usman/ros2_ws/build/zedm_to_BC/build install --record /home/usman/ros2_ws/build/zedm_to_BC/install.log --single-version-externally-managed install_data
+[0.486s] /home/usman/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.486s]   warnings.warn(msg)
+[0.531s] running egg_info
+[0.538s] creating ../../build/zedm_to_BC/zedm_to_BC.egg-info
+[0.538s] writing ../../build/zedm_to_BC/zedm_to_BC.egg-info/PKG-INFO
+[0.538s] writing dependency_links to ../../build/zedm_to_BC/zedm_to_BC.egg-info/dependency_links.txt
+[0.538s] writing entry points to ../../build/zedm_to_BC/zedm_to_BC.egg-info/entry_points.txt
+[0.538s] writing requirements to ../../build/zedm_to_BC/zedm_to_BC.egg-info/requires.txt
+[0.538s] writing top-level names to ../../build/zedm_to_BC/zedm_to_BC.egg-info/top_level.txt
+[0.538s] writing manifest file '../../build/zedm_to_BC/zedm_to_BC.egg-info/SOURCES.txt'
+[0.554s] reading manifest file '../../build/zedm_to_BC/zedm_to_BC.egg-info/SOURCES.txt'
+[0.554s] writing manifest file '../../build/zedm_to_BC/zedm_to_BC.egg-info/SOURCES.txt'
+[0.554s] running build
+[0.554s] running build_py
+[0.555s] creating /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC
+[0.555s] copying zedm_to_BC/main.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC
+[0.555s] copying zedm_to_BC/__init__.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC
+[0.555s] creating /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/observation_logger
+[0.555s] copying zedm_to_BC/observation_logger/__init__.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/observation_logger
+[0.555s] copying zedm_to_BC/observation_logger/observation_logger.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/observation_logger
+[0.555s] creating /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/scripts
+[0.555s] copying zedm_to_BC/scripts/inference_node.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/scripts
+[0.555s] copying zedm_to_BC/scripts/control_publisher.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/scripts
+[0.555s] copying zedm_to_BC/scripts/__init__.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/scripts
+[0.555s] copying zedm_to_BC/scripts/combine_data.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/scripts
+[0.556s] creating /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/training
+[0.556s] copying zedm_to_BC/training/testing.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/training
+[0.556s] copying zedm_to_BC/training/behavior_cloning_training.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/training
+[0.556s] copying zedm_to_BC/training/__init__.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/training
+[0.556s] creating /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/models
+[0.556s] copying zedm_to_BC/models/behavior_cloning_model.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/models
+[0.556s] copying zedm_to_BC/models/__init__.py -> /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/models
+[0.556s] running install
+[0.560s] running install_lib
+[0.567s] creating /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC
+[0.567s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/main.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC
+[0.568s] creating /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/observation_logger
+[0.568s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/observation_logger/__init__.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/observation_logger
+[0.568s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/observation_logger/observation_logger.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/observation_logger
+[0.568s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/__init__.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC
+[0.568s] creating /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/scripts
+[0.568s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/scripts/inference_node.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/scripts
+[0.568s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/scripts/control_publisher.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/scripts
+[0.568s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/scripts/__init__.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/scripts
+[0.568s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/scripts/combine_data.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/scripts
+[0.568s] creating /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/training
+[0.568s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/training/testing.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/training
+[0.568s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/training/behavior_cloning_training.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/training
+[0.568s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/training/__init__.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/training
+[0.568s] creating /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/models
+[0.569s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/models/behavior_cloning_model.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/models
+[0.569s] copying /home/usman/ros2_ws/build/zedm_to_BC/build/lib/zedm_to_BC/models/__init__.py -> /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/models
+[0.569s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/main.py to main.cpython-310.pyc
+[0.570s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/observation_logger/__init__.py to __init__.cpython-310.pyc
+[0.570s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/observation_logger/observation_logger.py to observation_logger.cpython-310.pyc
+[0.570s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/__init__.py to __init__.cpython-310.pyc
+[0.570s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/scripts/inference_node.py to inference_node.cpython-310.pyc
+[0.571s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/scripts/control_publisher.py to control_publisher.cpython-310.pyc
+[0.571s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/scripts/__init__.py to __init__.cpython-310.pyc
+[0.571s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/scripts/combine_data.py to combine_data.cpython-310.pyc
+[0.571s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/training/testing.py to testing.cpython-310.pyc
+[0.572s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/training/behavior_cloning_training.py to behavior_cloning_training.cpython-310.pyc
+[0.572s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/training/__init__.py to __init__.cpython-310.pyc
+[0.572s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/models/behavior_cloning_model.py to behavior_cloning_model.cpython-310.pyc
+[0.572s] byte-compiling /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC/models/__init__.py to __init__.cpython-310.pyc
+[0.572s] running install_data
+[0.572s] creating /home/usman/ros2_ws/install/zedm_to_BC/share/ament_index/resource_index/packages
+[0.572s] copying resource/zedm_to_BC -> /home/usman/ros2_ws/install/zedm_to_BC/share/ament_index/resource_index/packages
+[0.573s] copying package.xml -> /home/usman/ros2_ws/install/zedm_to_BC/share/zedm_to_BC
+[0.573s] creating /home/usman/ros2_ws/install/zedm_to_BC/share/zedm_to_BC/launch
+[0.573s] running install_egg_info
+[0.580s] Copying ../../build/zedm_to_BC/zedm_to_BC.egg-info to /home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages/zedm_to_BC-0.1.0-py3.10.egg-info
+[0.581s] running install_scripts
+[0.644s] Installing inference script to /home/usman/ros2_ws/install/zedm_to_BC/lib/zedm_to_BC
+[0.644s] Installing logger script to /home/usman/ros2_ws/install/zedm_to_BC/lib/zedm_to_BC
+[0.644s] Installing scripts script to /home/usman/ros2_ws/install/zedm_to_BC/lib/zedm_to_BC
+[0.644s] Installing trainer script to /home/usman/ros2_ws/install/zedm_to_BC/lib/zedm_to_BC
+[0.645s] writing list of installed files to '/home/usman/ros2_ws/build/zedm_to_BC/install.log'
+[0.657s] Invoked command in '/home/usman/ros2_ws/src/zedm_to_BC' returned '0': PYTHONPATH=/home/usman/ros2_ws/build/zedm_to_BC/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usman/ros2_ws/install/zedm_to_BC/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/zedm_to_BC build --build-base /home/usman/ros2_ws/build/zedm_to_BC/build install --record /home/usman/ros2_ws/build/zedm_to_BC/install.log --single-version-externally-managed install_data

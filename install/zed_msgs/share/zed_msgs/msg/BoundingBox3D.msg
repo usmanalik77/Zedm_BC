@@ -1,1 +1,8 @@
-/home/usman/ros2_ws/src/zed-ros2-wrapper/zed-ros2-interfaces/msg/BoundingBox3D.msg
+#      1 ------- 2
+#     /.        /|
+#    0 ------- 3 |
+#    | .       | |
+#    | 5.......| 6
+#    |.        |/
+#    4 ------- 7
+zed_msgs/Keypoint3D[8] corners

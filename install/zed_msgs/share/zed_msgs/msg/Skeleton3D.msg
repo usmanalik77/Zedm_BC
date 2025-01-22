@@ -1,1 +1,2 @@
-/home/usman/ros2_ws/src/zed-ros2-wrapper/zed-ros2-interfaces/msg/Skeleton3D.msg
+# Skeleton joints
+zed_msgs/Keypoint3D[70] keypoints

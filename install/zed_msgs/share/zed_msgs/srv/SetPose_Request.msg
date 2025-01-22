@@ -1,1 +1,6 @@
-/home/usman/ros2_ws/build/zed_msgs/rosidl_cmake/srv/SetPose_Request.msg
+# Restart positional tracking to a new pose in camera_link frame
+
+# Translation XYZ [meters]
+float32[3] pos
+# Orientation RPY [radians]
+float32[3] orient

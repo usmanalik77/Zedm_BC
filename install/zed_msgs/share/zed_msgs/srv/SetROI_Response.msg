@@ -1,1 +1,3 @@
-/home/usman/ros2_ws/build/zed_msgs/rosidl_cmake/srv/SetROI_Response.msg
+
+bool success   # indicate successful run of service
+string message # informational, e.g. for error messages
