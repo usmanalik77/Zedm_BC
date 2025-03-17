@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+      "/home/usman/.local/lib/python3.10/site-packages"
+    ]
+  }
+  
